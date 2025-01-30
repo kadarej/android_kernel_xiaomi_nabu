@@ -5426,7 +5426,7 @@ CONFIG_ESOC_MDM_DBG_ENG=y
 # KernelSU
 #
 CONFIG_KSU_MANUAL_HOOK=y
-# CONFIG_KSU is not set
+CONFIG_KSU is not set
 # CONFIG_KSU_DEBUG is not set
 
 #
